@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Detalle de la Receta</title>
-    <link rel="stylesheet" type="text/css" href="/css/estilos.css">
+    <link rel="stylesheet" href="/estilos/index.css">
 </head>
 <body>
     <h1>Detalle de la Receta</h1>
